@@ -1,4 +1,4 @@
-Create a function checklist for later exercises. 
+Create a function checklist for later exercises.
 
 Did you start your function definition with def?
 Does your function name have only characters and _ (underscore) characters?
@@ -14,3 +14,6 @@ Did you call/use/run this function by typing its name?
 Did you put the ( character after the name to run it?
 Did you put the values you want into the parenthesis separated by commas?
 Did you end the function call with a ) character?
+
+
+"To 'run,' 'call,' or 'use' a function all mean the same thing."
