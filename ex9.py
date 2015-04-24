@@ -24,3 +24,7 @@ test
 #This \ (backslash) character encodes difficult-to-type characters into a string.
 #An important escape sequence is to escape a single-quote ' or double-quote ".
 #The second way is by using triple-quotes, which is just """ and works like a string, but you also can put as many lines of text as you want until you type """ again.
+
+while True:
+    for i in ["/","-","|","\\","|"]:
+        print "%s\r" % i,
